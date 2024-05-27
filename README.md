@@ -12,7 +12,7 @@
 
 Apasionado por la tecnología y la información, disfruto resolviendo problemas de análisis y estadística por medio de herramientas como machine learning y programación. 
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: todo lo relacionado a todo lo relacionado a ciencia de datos, desde el análisis hasta la construcción de modelos de predicción.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: todo lo relacionado a ciencia de datos, desde el análisis hasta la construcción de modelos de predicción.
 
 * :telescope: Actualmente me encuentro en busqueda de una carrera profesional y mejorar diariamente con nuevos retos. :muscle:
 
