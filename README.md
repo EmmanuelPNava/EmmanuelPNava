@@ -9,7 +9,7 @@
 
 
 <h1>
-  Hola soy Emmanuel. ¡Encantado de conocerte!
+  Hey, I'm Emmanuel! Nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -18,15 +18,15 @@
 ---
 <div id="header" align="left">
 
-### :man_technologist: Sobre mi:
+### :man_technologist: About me:
 
-Apasionado por la tecnología y la información, disfruto resolviendo problemas de análisis y estadística por medio de herramientas como machine learning y programación. 
+I am a data scientist passionate about technology and information. I enjoy solving analytical and statistical tasks using tools like machine learning and coding. :computer:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: todo lo relacionado a ciencia de datos, desde el análisis hasta la construcción de modelos de predicción.
+* :seedling: I am constantly improving my skills in data science. This includes analyzing data and the construction of advanced machine learning prediction models. :blue_book:
 
-* :telescope: Actualmente me encuentro en busqueda de una carrera profesional y mejorar diariamente con nuevos retos. :muscle:
+* :telescope: At the moment, I am seeking new goals to improve and become a better version of myself. :muscle:
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Emmanuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-palacios-34534a20a/)
+* :mailbox: Do you wish to get in touch with me? [![Linkedin Badge](https://img.shields.io/badge/-Emmanuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-palacios-34534a20a/)
 
 ---
 
