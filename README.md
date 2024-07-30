@@ -13,7 +13,7 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-palacios-34534a20a/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-emmanuel-palacios-nava-34534a20a/)
 
 ---
 <div id="header" align="left">
@@ -26,7 +26,7 @@ I am a data scientist passionate about technology and information. I enjoy solvi
 
 * :telescope: At the moment, I am seeking new goals to improve and become a better version of myself. :muscle:
 
-* :mailbox: Do you wish to get in touch with me? [![Linkedin Badge](https://img.shields.io/badge/-Emmanuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-palacios-34534a20a/)
+* :mailbox: Do you wish to get in touch with me? [![Linkedin Badge](https://img.shields.io/badge/-Emmanuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-emmanuel-palacios-nava-34534a20a/)
 
 ---
 
